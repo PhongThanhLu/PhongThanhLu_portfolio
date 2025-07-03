@@ -1,5 +1,9 @@
 # Phong Thanh Lu - Portfolio
 
+**Author:** Phong Thanh Lu  
+**Created:** January 2025  
+**Last Updated:** January 3, 2025
+
 A modern, responsive developer portfolio showcasing skills, projects, and professional experience. Built with cutting-edge web technologies and optimized for performance.
 
 ## 🚀 Features
