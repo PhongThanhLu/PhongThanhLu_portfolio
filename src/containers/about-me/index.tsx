@@ -2,13 +2,16 @@
 
 import { motion } from "motion/react"
 
-import { VelocityScroll } from "@/components/magicui/scroll-based-velocity"
 import { Badge } from "@/components/ui/badge"
 import { GlowingEffect } from "@/components/ui/glowing-effect"
 import { MY_NETWORKS } from "@/data/my-networks"
 import { Code, Layers, UserRound, Zap } from "lucide-react"
 import { useTheme } from "next-themes"
 import { MyResume } from "../my-resume"
+import { CardInfo } from "./card-info"
+import { FullScreen } from "@/components/full-screen"
+import { Meteors } from "@/components/ui/meteors"
+import { HeroHighlight } from "@/components/ui/hero-highlight"
 
 export function MyInformation() {
   return (

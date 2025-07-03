@@ -3,7 +3,6 @@
 import { cn } from "@/lib/utils"
 import {
   IconArrowUp,
-  IconBrandGithub,
   IconMenu2,
   IconX,
 } from "@tabler/icons-react"
@@ -11,7 +10,6 @@ import Link from "next/link"
 import { usePathname } from "next/navigation"
 import { useCallback, useEffect, useRef, useState } from "react"
 import { ModeToggle } from "@/components/mode-toggle"
-import { Logo } from "../svg/logo"
 import { Button } from "../ui/button"
 import {
   Drawer,

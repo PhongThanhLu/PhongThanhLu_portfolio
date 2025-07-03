@@ -1,4 +1,3 @@
-import { BlurImage } from "@/components/ui/apple-cards-carousel"
 import Image from "next/image"
 
 export const EXPERIENCE_TIMELINE = [

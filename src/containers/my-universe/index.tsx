@@ -4,7 +4,6 @@ import {
   type AnimationVariant,
   TextAnimate,
 } from "@/components/magicui/text-animate"
-import { Compare } from "@/components/ui/compare"
 import { Cover } from "@/components/ui/cover"
 import { ROLE_TITLES } from "@/data/role-titles"
 import { cn } from "@/lib/utils"
