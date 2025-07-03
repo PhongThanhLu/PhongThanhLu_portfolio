@@ -2,6 +2,8 @@
   "name": "phonglu-portfolio",
   "version": "0.1.0",
   "private": true,
+  "description": "Personal portfolio website for Phong Thanh Lu - Computer Science student at University of South Florida",
+  "author": "Phong Thanh Lu <134834342+PhongThanhLu@users.noreply.github.com>",
   "scripts": {
     "dev": "next dev --turbopack",
     "build": "next build",
